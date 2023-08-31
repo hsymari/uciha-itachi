@@ -11,17 +11,25 @@ body {
 }
 
 header {
+    width: 90%;
+    margin: auto;
     display: flex;
     justify-content: space-around;
     align-items: center;
 }
 
-.logo-text {
-    
+.logo-container {
+    display: flex;
+    align-items: center;
 }
 
-.logo-text h4 {
+.logo-container .logo {
+    width: 32px;
+}
+
+.text-logo {
     font-size: 24px;
+    margin-left: 10px;
 }
 
 .menu {
