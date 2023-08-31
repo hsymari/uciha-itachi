@@ -13,8 +13,30 @@ body {
 header {
     display: flex;
     justify-content: space-around;
+    align-items: center;
 }
 
 .logo-text {
+    
+}
+
+.logo-text h4 {
     font-size: 24px;
+}
+
+.menu {
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+
+nav ul li {
+    display: inline-block;
+    padding: 20px;
+}
+
+nav li a {
+    color: #fffffe;
+    text-decoration: none;
+    font-size: 18px;
 }
