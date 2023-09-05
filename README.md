@@ -1,3 +1,2 @@
 # uciha-itachi
-F
-My favourite anime character in naruto inspired by Criosyom
+My favourite anime character in naruto
