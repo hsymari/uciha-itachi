@@ -73,8 +73,23 @@ nav li a {
 }
 
 .intro-text p {
+    padding-top: 20px;
     font-size: 18px;
     line-height: 1.5em;
+}
+
+.cta {
+    padding: 50px 0 0 0;
+}
+
+.cta-learn-more {
+    background: #BB000E;
+    width: 150px;
+    height: 50px;
+    cursor: pointer;
+    border: none;
+    color: #fffffe;
+    font-size: 16px;
 }
 
 .hero-image img {
